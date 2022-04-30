@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Buylist",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

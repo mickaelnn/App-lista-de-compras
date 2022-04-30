@@ -1,0 +1,7 @@
+{
+  "name": "Buylist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
